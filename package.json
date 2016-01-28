@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/kdelmonte/gulp-jshint-jslint-file-reporter/issues"
   },
-  "homepage": "https://github.com/kdelmonte/gulp-jshint-jslint-file-reporter#readme"
+  "homepage": "https://github.com/kdelmonte/gulp-jshint-jslint-file-reporter#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
 }
