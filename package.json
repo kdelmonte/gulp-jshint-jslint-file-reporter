@@ -1,0 +1,28 @@
+{
+  "name": "gulp-jshint-jslint-file-reporter",
+  "version": "0.0.1",
+  "description": "JSLint XML reporter for gulp-jshint that saves the output to a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdelmonte/gulp-jshint-jslint-file-reporter.git"
+  },
+  "keywords": [
+    "gulp-jshint",
+    "gulp",
+    "jshint",
+    "jslint",
+    "xml",
+    "file",
+    "disk"
+  ],
+  "author": "Kelvin Del Monte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdelmonte/gulp-jshint-jslint-file-reporter/issues"
+  },
+  "homepage": "https://github.com/kdelmonte/gulp-jshint-jslint-file-reporter#readme"
+}
